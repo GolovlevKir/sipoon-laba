@@ -1,0 +1,136 @@
+.border {
+    border: 6px solid #1E90FF}
+
+button{
+}
+h1,p{
+Color: black;
+
+}
+h1{
+  font-size: 60px;
+  text-align: center;
+}
+nav{
+  text-align: center;
+  color: black;
+  font-size: 30px;
+}
+
+/* Полоса */
+  .menu-1 {
+     margin: 0;
+     padding: 0;
+     height: auto;
+     list-style-type: none;
+     text-align: center;
+     }
+     /* Изначальный вид пунктов мен */
+  .menu-1 li {
+     margin: 8px 10px 8px 0;
+     padding: 2px 14px 4px;
+     font-size: 24px;
+     background-color: #4960fb;
+     border: 2px solid #4960fb;
+     border-radius: 1px 20px;
+     display: inline-block;
+     transition: all 0.7s ease 0s;
+     }
+     /* Текст меню */
+  .menu-1 a {
+    color: #f2f2f2;
+    text-decoration: none;
+    }
+    /* Изменения после наведения */
+  .menu-1 li:hover {
+    background-color: #ccc;
+    border-radius: 20px 1px;
+    }
+    /* Изменение цвета текста ссылки */
+  .menu-1 li:hover a {
+    color: #0e25c0;
+    }
+    table {
+  margin: 0 auto; /* центруем по горизонитали внешними отступами */
+  background-color: white;
+  }
+      body {
+        background-image: url("https://c.wallhere.com/photos/ca/b8/2560x1440_px_walls_wood-1365333.jpg!d"); /* Путь к фоновому рисунку */
+        background-repeat: no-repeat; /* Повторяем фон по горизонтали */
+        background-size: cover;
+      }
+
+      figure img {
+     width: 300px; /* Ширина */
+      height: 220px; /* Высота */
+      border: 4px solid #DCDCDC; /* Параметры рамки */
+     }
+        td {
+      background: #00CED1; /* Цвет фона ячеек */
+      text-align: center; /* Выравниваем по центру */
+     }
+      th {
+      background: #5F9EA0 ;   /* Цвет фона ячеек */
+      padding: 15px 50px; /* Поля в ячейках */
+      vertical-align: top; /* Выравниваем по верхнему краю */
+     }
+      figure {
+        background: #5f6a72;
+        padding: 10px;
+        display: block;
+        width: 350px;
+        height: 300px;
+        float: left;
+        margin: 0 10px 10px 0;
+        text-align: center;
+      }
+      table{
+        margin: auto;
+      }
+        li{
+      Color: #FFFFFF;
+      }
+
+      h2{
+      Color: black;
+        text-align: center;
+        margin-left: 50px;
+        font-size: 40px;
+      }
+      h3{
+      Color: black;
+      font-size: 30px;
+        text-align: center;
+        margin-left: 20px;
+      }
+      blockquote{
+        Color: blue;
+        text-align: right;
+        font-size: 30px;
+      }
+      h4,h5{
+      Color: white;
+        text-align: center;
+        margin-left: 50px;
+      }
+      figcaption {
+        color: #fff; /* Цвет текста */
+      }
+      .center {
+        margin-top: 100px;
+      margin-left: auto;
+      margin-right: auto;
+      display: block
+    }
+      footer {
+        margin: 700px auto;
+        color: white;
+        font-size: 30px;
+      }
+      article{
+
+      }
+  caption{
+    caption-side: bottom
+    color: white;
+  }
